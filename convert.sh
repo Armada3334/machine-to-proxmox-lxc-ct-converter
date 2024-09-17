@@ -150,6 +150,7 @@ collectFS()
     --exclude="*.gz" \
     --exclude="*.sql" \
     --exclude="swap.img" \
+    --exclude="jellydata" \
     .
 }
 
